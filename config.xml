@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.ambica" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Ambica CRM</name>
+<widget id="com.phonegap.splash" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>splash</name>
     <description>
-        Panaromic
+        splash
     </description>
-    <author email="sanarajasekhar@gmail.com" href="http://spetinfo.com">
-        Ambica Enterprises
+    <author email="sanarajasekhar@gmail.com" href="http://splash.com">
+        splash Enterprises
     </author>
     <splash src="resources/splash.png" />
     <platform name="android">
